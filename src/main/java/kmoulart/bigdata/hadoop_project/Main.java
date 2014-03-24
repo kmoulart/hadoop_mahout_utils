@@ -1,15 +1,15 @@
-package myCompany.bigdata.hadoop_project;
+package kmoulart.bigdata.hadoop_project;
 
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import myCompany.bigdata.hadoop_project.args.HelpCommand;
-import myCompany.bigdata.hadoop_project.args.UserCommand;
-import myCompany.bigdata.hadoop_project.args.RandomForest.MahoutRandomForestCommand;
-import myCompany.bigdata.hadoop_project.args.makeSequenceCommand.MakeSequenceFileCommand;
-import myCompany.bigdata.hadoop_project.args.makeSequenceCommand.MakeSequenceFileCommandMR;
+import kmoulart.bigdata.hadoop_project.args.HelpCommand;
+import kmoulart.bigdata.hadoop_project.args.UserCommand;
+import kmoulart.bigdata.hadoop_project.args.RandomForest.MahoutRandomForestCommand;
+import kmoulart.bigdata.hadoop_project.args.makeSequenceCommand.MakeSequenceFileCommand;
+import kmoulart.bigdata.hadoop_project.args.makeSequenceCommand.MakeSequenceFileCommandMR;
 
 import org.apache.mahout.classifier.df.data.DescriptorException;
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package myCompany.bigdata.hadoop_project.args;
+package kmoulart.bigdata.hadoop_project.args;
 
 import com.beust.jcommander.JCommander;
 import com.beust.jcommander.Parameter;

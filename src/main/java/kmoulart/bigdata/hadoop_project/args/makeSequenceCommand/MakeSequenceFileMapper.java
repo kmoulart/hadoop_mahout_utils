@@ -1,4 +1,4 @@
-package myCompany.bigdata.hadoop_project.args.makeSequenceCommand;
+package kmoulart.bigdata.hadoop_project.args.makeSequenceCommand;
 
 import java.io.IOException;
 

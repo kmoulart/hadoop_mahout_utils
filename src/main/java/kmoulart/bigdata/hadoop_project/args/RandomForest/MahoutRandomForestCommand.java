@@ -1,4 +1,4 @@
-package myCompany.bigdata.hadoop_project.args.RandomForest;
+package kmoulart.bigdata.hadoop_project.args.RandomForest;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Random;
 
-import myCompany.bigdata.hadoop_project.args.UserCommand;
+import kmoulart.bigdata.hadoop_project.args.UserCommand;
 
 import org.apache.mahout.classifier.df.DecisionForest;
 import org.apache.mahout.classifier.df.builder.DefaultTreeBuilder;

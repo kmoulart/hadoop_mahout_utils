@@ -1,10 +1,10 @@
-package myCompany.bigdata.hadoop_project.args.makeSequenceCommand;
+package kmoulart.bigdata.hadoop_project.args.makeSequenceCommand;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-import myCompany.bigdata.hadoop_project.args.UserCommand;
+import kmoulart.bigdata.hadoop_project.args.UserCommand;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;

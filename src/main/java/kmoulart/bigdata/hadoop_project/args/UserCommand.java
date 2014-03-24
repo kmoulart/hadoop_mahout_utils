@@ -1,4 +1,4 @@
-package myCompany.bigdata.hadoop_project.args;
+package kmoulart.bigdata.hadoop_project.args;
 
 
 import java.io.IOException;
